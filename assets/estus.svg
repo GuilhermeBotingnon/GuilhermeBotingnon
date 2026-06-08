@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Estus">
+  <defs>
+    <linearGradient id="glass" x1="30%" y1="0%" x2="70%" y2="100%">
+      <stop offset="0%" stop-color="#7ec8e3" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#2e6b8a"/>
+    </linearGradient>
+    <linearGradient id="liquid" x1="50%" y1="0%" x2="50%" y2="100%">
+      <stop offset="0%" stop-color="#9ee7ff"/>
+      <stop offset="100%" stop-color="#3d8eb9"/>
+    </linearGradient>
+  </defs>
+  <rect x="18" y="8" width="28" height="10" rx="3" fill="#5c4a32" stroke="#c9a227" stroke-width="1.5"/>
+  <path d="M22 18 H42 L38 52 Q32 58 26 52 Z" fill="url(#glass)" stroke="#c9a227" stroke-width="2"/>
+  <path d="M24 30 H40 L37 50 Q32 54 27 50 Z" fill="url(#liquid)" opacity="0.85">
+    <animate attributeName="opacity" dur="2.5s" repeatCount="indefinite" values="0.7;1;0.7"/>
+  </path>
+  <ellipse cx="32" cy="30" rx="6" ry="2" fill="#fff" opacity="0.35"/>
+</svg>
