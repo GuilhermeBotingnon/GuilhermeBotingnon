@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" role="img" aria-label="Guilherme Botingnon — Desenvolvedor Full Stack">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" role="img" aria-label="Guilherme Botingnon - Desenvolvedor Full Stack">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0b1220"/>
@@ -24,41 +25,20 @@
       </feMerge>
     </filter>
   </defs>
-
   <rect width="1200" height="200" fill="url(#bg)"/>
   <rect width="1200" height="200" fill="url(#grid)"/>
   <circle cx="1040" cy="36" r="120" fill="url(#glow)" filter="url(#softGlow)"/>
   <circle cx="1120" cy="170" r="80" fill="#164e63" fill-opacity="0.35"/>
-
   <rect x="0" y="0" width="5" height="200" fill="url(#accent)"/>
-
   <g transform="translate(72 98)">
-    <text
-      font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
-      font-size="38"
-      font-weight="700"
-      letter-spacing="0.02em"
-      fill="#f8fafc"
-    >
+    <text font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="38" font-weight="700" letter-spacing="0.02em" fill="#f8fafc">
       <tspan x="0" y="0">Guilherme Botingnon</tspan>
     </text>
-    <text
-      font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
-      font-size="20"
-      font-weight="500"
-      letter-spacing="0.08em"
-      fill="url(#accent)"
-    >
+    <text font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="20" font-weight="500" letter-spacing="0.08em" fill="url(#accent)">
       <tspan x="0" y="34">DESENVOLVEDOR FULL STACK</tspan>
     </text>
-    <text
-      font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
-      font-size="14"
-      font-weight="400"
-      letter-spacing="0.04em"
-      fill="#94a3b8"
-    >
-      <tspan x="0" y="62">Automação · E-commerce · Infraestrutura · Remoto</tspan>
+    <text font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="14" font-weight="400" letter-spacing="0.04em" fill="#94a3b8">
+      <tspan x="0" y="62">Automa&#231;&#227;o &#183; E-commerce &#183; Infraestrutura &#183; Remoto</tspan>
     </text>
   </g>
 </svg>
