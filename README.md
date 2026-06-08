@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/GuilhermeBotingnon/GuilhermeBotingnon/main/assets/banner.svg" width="100%" alt="Guilherme Botingnon — Desenvolvedor Full Stack" />
+
+<br/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=0891b2&center=true&vCenter=true&width=520&lines=Desenvolvedor+Full+Stack;Automa%C3%A7%C3%A3o+%C2%B7+n8n+%C2%B7+MCP;E-commerce+%C2%B7+Magento+2;Infraestrutura+%C2%B7+Docker+Swarm)](https://git.io/typing-svg)
 
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Remote-0891b2?style=for-the-badge)](https://curriculo.botingnonlab.com.br)
