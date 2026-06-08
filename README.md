@@ -5,8 +5,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=540&lines=Desenvolvedor+Full+Stack;Automa%C3%A7%C3%A3o+%C2%B7+n8n+%C2%B7+MCP;E-commerce+%C2%B7+Magento+2;Infraestrutura+%C2%B7+Docker+Swarm)](https://git.io/typing-svg)
 
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Remote-0891b2?style=for-the-badge)](https://curriculo.botingnonlab.com.br)
-[![Hire Me](https://img.shields.io/badge/Hire%20Me-guilherme.botingnon@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme.botingnon@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-curriculo.botingnonlab.com.br-164e63?style=for-the-badge&logo=googlechrome&logoColor=white)](https://curriculo.botingnonlab.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-botingnon/)
+[![Hire Me](https://img.shields.io/badge/Hire%20Me-guilherme.botingnon@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme.botingnon@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=GuilhermeBotingnon&label=Profile%20views&color=0891b2&style=flat-square" alt="Profile views" />
 
@@ -33,8 +34,6 @@ Com **1+ ano de entregas reais**, atuo em automação, e-commerce e infraestrutu
 - Portfólio profissional em **Next.js** com i18n e PDF para recrutadores
 
 📍 Praia Grande, SP · **Remoto** · Inglês **B2** · PJ e CLT
-
-📄 [Currículo PT](https://curriculo.botingnonlab.com.br/api/resume-pdf) · [Currículo EN](https://curriculo.botingnonlab.com.br/api/resume-pdf?lang=en) · [Portfólio](https://curriculo.botingnonlab.com.br)
 
 </td>
 <td width="42%" valign="top" align="center">
@@ -95,7 +94,12 @@ Infraestrutura própria, homelab e projetos pessoais em produção<br/>
 
 **Disponível para remoto · PJ e CLT**
 
-[Portfólio](https://curriculo.botingnonlab.com.br) · [LinkedIn](https://www.linkedin.com/in/guilherme-botingnon/) · [WhatsApp](https://wa.me/5513997571641) · [E-mail](mailto:guilherme.botingnon@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-curriculo.botingnonlab.com.br-0891b2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://curriculo.botingnonlab.com.br)
+[![Currículo PT](https://img.shields.io/badge/Curr%C3%ADculo-PT-0f172a?style=for-the-badge&logo=adobeacrobatreader&logoColor=EA4335)](https://curriculo.botingnonlab.com.br/api/resume-pdf)
+[![Currículo EN](https://img.shields.io/badge/Resume-EN-0f172a?style=for-the-badge&logo=adobeacrobatreader&logoColor=EA4335)](https://curriculo.botingnonlab.com.br/api/resume-pdf?lang=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-botingnon/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5513997571641)
+[![E-mail](https://img.shields.io/badge/E--mail-guilherme.botingnon@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme.botingnon@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0891b2,100:164e63&height=60&section=footer" width="100%" alt="" />
 
