@@ -1,15 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:22d3ee,100:164e63&height=170&section=header&text=Guilherme%20Botingnon&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%" alt="Guilherme Botingnon" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:22d3ee,100:164e63&height=150&section=header&text=Guilherme%20Botingnon&fontSize=36&fontColor=ffffff&animation=twinkling" width="100%" alt="Guilherme Botingnon" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Automa%C3%A7%C3%A3o+%C2%B7+n8n+%C2%B7+MCP;E-commerce+%C2%B7+Magento+2;Infraestrutura+%C2%B7+Docker+Swarm)](https://git.io/typing-svg)
 
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Remote-22d3ee?style=for-the-badge)](https://curriculo.botingnonlab.com.br)
 [![Hire Me](https://img.shields.io/badge/Hire%20Me-guilherme.botingnon@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme.botingnon@gmail.com)
-
-[![Portfólio](https://img.shields.io/badge/Portfólio-curriculo.botingnonlab.com.br-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=white)](https://curriculo.botingnonlab.com.br)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-botingnon/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5513997571641)
 
 📍 Praia Grande, SP · **Remoto** · Inglês **B2** · PJ e CLT
 
@@ -65,19 +61,21 @@ Construo e opero sistemas completos — APIs, front-end React/Next.js, PWAs, bot
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="165" src="https://github-profile-trophy.vercel.app/?username=GuilhermeBotingnon&theme=discord&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" alt="GitHub trophies" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=GuilhermeBotingnon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee&text_color=c9d1d9" alt="GitHub stats" />
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeBotingnon&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=22d3ee&sideNums=22d3ee&dates=8b949e" alt="GitHub streak" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBotingnon&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9" alt="Top languages" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeBotingnon&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph&color=22d3ee&line=22d3ee&point=ffffff&bg_color=0d1117" alt="Activity graph" />
-
-</div>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img height="165" src="https://streak-stats.demolab.com/?user=GuilhermeBotingnon&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=22d3ee&sideNums=22d3ee&dates=8b949e" alt="GitHub streak" />
+    </td>
+    <td valign="top" width="50%">
+      <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GuilhermeBotingnon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee&text_color=c9d1d9" alt="GitHub stats" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GuilhermeBotingnon&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9" alt="Top languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -100,11 +98,8 @@ Construo e opero sistemas completos — APIs, front-end React/Next.js, PWAs, bot
 
 **Disponível para remoto · PJ e CLT**
 
-[![Portfólio](https://img.shields.io/badge/🌐_Portfólio-curriculo.botingnonlab.com.br-22d3ee?style=flat-square)](https://curriculo.botingnonlab.com.br)
-[![BON](https://img.shields.io/badge/🚀_BON-aero.botingnonlab.com.br-164e63?style=flat-square)](https://aero.botingnonlab.com.br)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-guilherme--botingnon-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-botingnon/)
-[![E-mail](https://img.shields.io/badge/✉️_E--mail-guilherme.botingnon@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:guilherme.botingnon@gmail.com)
+🌐 [Portfólio](https://curriculo.botingnonlab.com.br) · 🚀 [BON](https://aero.botingnonlab.com.br) · 💼 [LinkedIn](https://www.linkedin.com/in/guilherme-botingnon/) · 💬 [WhatsApp](https://wa.me/5513997571641) · ✉️ [E-mail](mailto:guilherme.botingnon@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:164e63,50:22d3ee,100:0891b2&height=100&section=footer&fontSize=14&fontColor=ffffff" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:164e63,50:22d3ee,100:0891b2&height=80&section=footer&fontSize=14&fontColor=ffffff" width="100%" alt="" />
 
 </div>
